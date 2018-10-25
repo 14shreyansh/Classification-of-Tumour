@@ -9,6 +9,7 @@ characteristics
 
 Question 2:​ As an oncologist, you would want to reduce your false positives as well as false
 negatives.
+          
           a. Identify the number of false positive and false negatives
          
           b. Improve your classification model to reduce patients who are being predicted as having
